@@ -1,0 +1,707 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\models\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\models\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\models\\forrat158context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\models\\forrat158context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\brandformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\brandformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\brandformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\brandformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\brandlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\brandlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\brandlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\brandlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\categoryformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\categoryformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\categoryformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\categoryformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\categorylistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\categorylistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\categorylistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\categorylistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\productformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\productformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\productformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\productformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\producttagspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\producttagspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\producttagspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\producttagspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\tagformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\tagformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\tagformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\tagformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\taglistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\taglistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\pages\\taglistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\pages\\taglistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\services\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\services\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\validationrules\\digitsonlyvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\validationrules\\digitsonlyvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\validationrules\\decimalvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\validationrules\\decimalvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\validationrules\\minlength4validationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\validationrules\\minlength4validationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\validationrules\\minlengthvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\validationrules\\minlengthvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\validationrules\\requiredvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\validationrules\\requiredvalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\wpfforrat15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\wpfforrat15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|c:\\users\\1\\desktop\\\u0430\u0430\u043F\\wpfforrat15\\wpfforrat15\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{068D644E-0902-4EA4-BEAD-1380732FAF08}|WpfForrat15\\WpfForrat15.csproj|solutionrelative:wpfforrat15\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Tag.cs",
+              "RelativeToolTip": "WpfForrat15\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:32:06.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Models\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\ProductTag.cs",
+              "RelativeToolTip": "WpfForrat15\\Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:31:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Product.cs",
+              "RelativeToolTip": "WpfForrat15\\Models\\Product.cs",
+              "ViewState": "AgIAACIAAAAAgJmZmZmZvyEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:31:26.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forrat158Context.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Forrat158Context.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Models\\Forrat158Context.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Forrat158Context.cs",
+              "RelativeToolTip": "WpfForrat15\\Models\\Forrat158Context.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAPwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T20:22:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Models\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\ObservableObject.cs",
+              "RelativeToolTip": "WpfForrat15\\Models\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:29:00.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Category.cs",
+              "RelativeToolTip": "WpfForrat15\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAA8ZmZmZuY9wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:31:14.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Models\\Brand.cs",
+              "RelativeToolTip": "WpfForrat15\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:29:27.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrandFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\BrandFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\BrandFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\BrandFormPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\BrandFormPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:15:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\BrandFormPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\BrandFormPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\BrandFormPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\BrandFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T19:14:04.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrandListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\BrandListPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\BrandListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\BrandListPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\BrandListPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAiJmZmZnhvyMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:13:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\BrandListPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\BrandListPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\BrandListPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\BrandListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T19:12:34.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\CategoryFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\CategoryFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\CategoryFormPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\CategoryFormPage.xaml.cs",
+              "ViewState": "AgIAAAkAAACAzczMzMwXwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:11:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\CategoryFormPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\CategoryFormPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\CategoryFormPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\CategoryFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T19:10:38.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\CategoryListPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\CategoryListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\CategoryListPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\CategoryListPage.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAOTMzMzPxvx4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:09:24.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\CategoryListPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\CategoryListPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\CategoryListPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\CategoryListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T19:08:47.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:56:49.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:52:02.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:58:58.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:57:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\ProductFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\ProductFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\ProductFormPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\ProductFormPage.xaml.cs",
+              "ViewState": "AgIAALEAAAAA38zMzMwRwHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:03:41.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\ProductFormPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\ProductFormPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\ProductFormPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\ProductFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T19:02:36.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductTagsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\ProductTagsPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\ProductTagsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\ProductTagsPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\ProductTagsPage.xaml.cs",
+              "ViewState": "AgIAAFgAAACAZmZmZiYrwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:04:37.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductTagsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\ProductTagsPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\ProductTagsPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\ProductTagsPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\ProductTagsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-23T20:03:21.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TagFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\TagFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\TagFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\TagFormPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\TagFormPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAA/////38dwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:05:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TagFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\TagFormPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\TagFormPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\TagFormPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\TagFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T19:04:54.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TagListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\TagListPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\TagListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\TagListPage.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\Pages\\TagListPage.xaml.cs",
+              "ViewState": "AgIAACwAAACAyszMzMwawCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:07:55.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TagListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\TagListPage.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\Pages\\TagListPage.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Pages\\TagListPage.xaml",
+              "RelativeToolTip": "WpfForrat15\\Pages\\TagListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T19:06:34.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseDbService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\BaseDbService.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Services\\BaseDbService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\BaseDbService.cs",
+              "RelativeToolTip": "WpfForrat15\\Services\\BaseDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:38:02.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\BrandService.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Services\\BrandService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\BrandService.cs",
+              "RelativeToolTip": "WpfForrat15\\Services\\BrandService.cs",
+              "ViewState": "AgIAAB8AAAAAoJmZmZn7v0MAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:38:51.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\CategoryService.cs",
+              "RelativeToolTip": "WpfForrat15\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADMAAAAAAQAAAIAlwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:40:26.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\ProductService.cs",
+              "RelativeToolTip": "WpfForrat15\\Services\\ProductService.cs",
+              "ViewState": "AgIAAH4AAAAAoJmZmZnlvxQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:41:18.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\Services\\TagService.cs",
+              "RelativeToolTip": "WpfForrat15\\Services\\TagService.cs",
+              "ViewState": "AgIAACYAAAAAzczMzIwgwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:45:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DigitsOnlyValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\DigitsOnlyValidationRule.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\ValidationRules\\DigitsOnlyValidationRule.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\DigitsOnlyValidationRule.cs",
+              "RelativeToolTip": "WpfForrat15\\ValidationRules\\DigitsOnlyValidationRule.cs",
+              "ViewState": "AgIAAAUAAACAmZmZmVkrwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:48:26.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DecimalValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\DecimalValidationRule.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\ValidationRules\\DecimalValidationRule.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\DecimalValidationRule.cs",
+              "RelativeToolTip": "WpfForrat15\\ValidationRules\\DecimalValidationRule.cs",
+              "ViewState": "AgIAAAgAAABgmZmZmdkgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:20:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MinLength4ValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\MinLength4ValidationRule.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\ValidationRules\\MinLength4ValidationRule.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\MinLength4ValidationRule.cs",
+              "RelativeToolTip": "WpfForrat15\\ValidationRules\\MinLength4ValidationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:48:49.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MinLengthValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\MinLengthValidationRule.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\ValidationRules\\MinLengthValidationRule.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\MinLengthValidationRule.cs",
+              "RelativeToolTip": "WpfForrat15\\ValidationRules\\MinLengthValidationRule.cs",
+              "ViewState": "AgIAAAIAAACA/////78rwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:49:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RequiredValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\RequiredValidationRule.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\ValidationRules\\RequiredValidationRule.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\ValidationRules\\RequiredValidationRule.cs",
+              "RelativeToolTip": "WpfForrat15\\ValidationRules\\RequiredValidationRule.cs",
+              "ViewState": "AgIAAAMAAAAAMzMzMzMLwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:49:57.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WpfForrat15.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\WpfForrat15.csproj",
+              "RelativeDocumentMoniker": "WpfForrat15\\WpfForrat15.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\WpfForrat15.csproj",
+              "RelativeToolTip": "WpfForrat15\\WpfForrat15.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-22T18:37:01.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\MainWindow.xaml",
+              "RelativeToolTip": "WpfForrat15\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:18:53.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfForrat15\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfForrat15\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAACg//////8gwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:18:46.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\App.xaml",
+              "RelativeDocumentMoniker": "WpfForrat15\\App.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u0430\u0430\u043F\\WpfForrat15\\WpfForrat15\\App.xaml",
+              "RelativeToolTip": "WpfForrat15\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T18:33:46.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
