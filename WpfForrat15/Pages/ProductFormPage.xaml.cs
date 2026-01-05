@@ -109,7 +109,7 @@ namespace WpfForrat15.Pages
         }
         private void Back_Click(object sender, RoutedEventArgs e)
         {
-            if (HasValidationErrors())
+            if (_isEdit && HasValidationErrors())
             {
                 MessageBox.Show(
                     "Исправьте ошибки перед выходом",
@@ -122,6 +122,8 @@ namespace WpfForrat15.Pages
         }
         private bool HasValidationErrors()
         {
+            if (!_isEdit)
+                return false;
             return Validation.GetHasError(NameBox) ||
                    Validation.GetHasError(PriceBox) ||
                    Validation.GetHasError(RatingkBox) ||
